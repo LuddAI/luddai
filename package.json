@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "npm run build && touch ./docs/.nojekyll"
+    "build": "next build && touch ./docs/.nojekyll",
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "14.2.7",

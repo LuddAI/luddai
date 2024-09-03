@@ -13,7 +13,7 @@ export default function Logo() {
         priority
         unoptimized
     />
-      <p className="text-[50px] text-nowrap mx-1">Ludd AI</p>
+      <p className="text-[30px] text-nowrap mx-1 min-w-32">Ludd AI</p>
     </div>
   );
 }
