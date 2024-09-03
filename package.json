@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "sudo npm run build && sudo touch ./docs/.nojekyll"
+    "deploy": "npm run build && touch ./docs/.nojekyll"
   },
   "dependencies": {
     "next": "14.2.7",
