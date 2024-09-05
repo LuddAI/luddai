@@ -1,15 +1,15 @@
 import Image from 'next/image';
-import logo from '/public/luddai-logo-600x600.png'
+import logo from '/public/luddai-logo-600x600.png';
 
 export default function Logo() {
   return (
-    <div className="flex items-center justify-center w-2/5 text-black">
+    <div className="flex items-center justify-center w-2/5 mb-12 text-black">
       <Image
         src={logo}
         width={300}
         height={300}
         className="relative"
-        alt="Ludd AI logo"
+        alt="Neural Hammer: Ludd AI logo"
         priority
         unoptimized
     />
