@@ -17,7 +17,7 @@ export default function Page() {
                 <p>Ludd AI respects your privacy and is strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to any Personal Information we might possibly collect from or about you when you use our website, applications, and services (collectively, &quot;Services&quot;).</p>
                 <p>We don&apos;t &quot;sell&quot; Personal Information or &quot;share&quot; Personal Information for behavioral advertising. We also don&apos;t process sensitive Personal Information for the purposes of inferring characteristics about a consumer.</p>
                 <h2>TL;DR</h2>
-                <p className="font-normal italic">If you do not consent to the possible collection of Personal Information, please exercise your right to privacy by discontinue use of this website.</p>
+                <p className="font-normal italic">If you do not consent to the possible collection of Personal Information, please exercise your right to privacy by discontinuing your use of this website.</p>
                 
 
                 <h2>Privacy Caveat</h2>

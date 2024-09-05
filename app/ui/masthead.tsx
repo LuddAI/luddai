@@ -11,12 +11,12 @@ export default function Masthead() {
                     src={logo}
                     width={80}
                     height={80}
-                    className="relative"
                     alt="Neural Hammer: Ludd AI logo"
+                    className="max-w-none"
                     priority
                     unoptimized
                 />
-                <p className="text-[22px] ml-[-1px] mt-[-2px] text-nowrap min-w-23">Ludd AI</p>
+                <p className="text-[22px] ml-[-1px] mt-[-2px] text-nowrap min-w-23 text-center">Ludd AI</p>
         </Link>
         </div>
     );
