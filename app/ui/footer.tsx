@@ -7,6 +7,7 @@ import clsx from 'clsx';
 const links = [
     { name: 'Privacy Policy', href: '/privacy' },
     { name: 'Terms of Use', href: '/terms' },
+    { name: 'Contact', href: 'mailto:info@luddai.com' },
 ];
 
 export default function Footer() {
